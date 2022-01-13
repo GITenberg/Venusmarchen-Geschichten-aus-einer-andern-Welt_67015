@@ -1,0 +1,39 @@
+_repo: Venusmarchen-Geschichten-aus-einer-andern-Welt_67015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fern, Edna
+    alias: Richter, Fernande Anna Therese Franziska Auguste Osthaus
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '54077'
+    url: http://www.gutenberg.org/2009/agents/54077
+description: 'Issued in 1900 with title: Aus einer anderen Welt. Geschichten und Märchen.'
+gutenberg_issued: '2021-12-26'
+identifiers:
+  gutenberg: '67015'
+  lccn: '34005626'
+language: de
+pgterms:marc904: https://archive.org/details/venusmarchengesc00fern
+pgterms:marc905: 20201025170859fern
+pgterms:marc906: '1899'
+pgterms:marc907: CH
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: Switzerland :Verlags-Magazin J. Schabelitz,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: Venus und Madonna -- Der kleine Finger der Venus von Medici -- Der
+  gefesselte Cupido -- Psyche -- Unser Frühling -- Frostiger Frühling -- Das Märchen,
+  das gar nicht kommen wollte -- Klein Hildegard -- Das Märchen, das gar nicht kommen
+  wollte -- Klein Hildegard -- Das Märchen, das verloren gegangen war -- In der Gosse
+  -- Sonniger Winter -- Ein Weihnachtsmärchen -- Schneflocken -- Das Märchen von der
+  weißen Stadt -- Weltausstellung im Walde -- Das Märchen von Einem, der auszog, ein
+  Sonntagskind zu werden -- Rauch.
+title: 'Venusmärchen: Geschichten aus einer andern Welt'
+url: http://www.gutenberg.org/ebooks/67015
