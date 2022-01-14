@@ -1,5 +1,8 @@
 _repo: Venusmarchen-Geschichten-aus-einer-andern-Welt_67015
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67015-h/images/cover.jpg
 creator:
   author:
     agent_name: Fern, Edna
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54077'
     url: http://www.gutenberg.org/2009/agents/54077
 description: 'Issued in 1900 with title: Aus einer anderen Welt. Geschichten und Märchen.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67015#Venusmarchen-Geschichten-aus-einer-andern-Welt
 gutenberg_issued: '2021-12-26'
 identifiers:
   gutenberg: '67015'
